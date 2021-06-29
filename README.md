@@ -1,1 +1,2 @@
-# BigNum_factorial_C_plusplus
+# 大數N階乘
+參考網路上實做紀錄
